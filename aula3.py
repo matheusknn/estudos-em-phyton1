@@ -12,6 +12,7 @@ print('Matheus "Kenji"')
 
 # Aspas Duplas
 print("Matheus Kenji Nishimura")
+print("Matheus 'Kenji' Nishimura")
 
 # Escape
 print("Matheus \"Kenji\" ")

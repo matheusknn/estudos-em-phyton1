@@ -12,7 +12,7 @@ x ou X - Hexadecimal
 = - Força o número a aparecer antes dos zeros
 Sinal - + ou -
 Ex.: 0>-100,.1f
-Conversion flags - !r !s !a 
+Conversion flags - !r !s !a  
 """
 
 variavel = 'ABC'

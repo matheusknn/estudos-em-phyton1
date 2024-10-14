@@ -2,7 +2,7 @@ nome = 'Matheus'
 sobrenome = 'Kenji'
 idade = 21
 ano_nascimento = 2002
-maior_de_idade = True
+maior_de_idade = idade >= 18
 altura_metros = 1.70
 
 

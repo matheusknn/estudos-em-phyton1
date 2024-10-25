@@ -11,3 +11,5 @@ elif entrada == 'sair':
   print('Você saiu do sistema')
 else:
   print('Você digitou uma opção inválida')
+
+print('fora dos blocos condicionais')
